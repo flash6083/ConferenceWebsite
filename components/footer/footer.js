@@ -13,7 +13,7 @@ function getCurrentDimension() {
 }
 
 const Footer = () => {
-    const [screenSize, setScreenSize] = useState({ width: 960, height: 30 });
+    const [screenSize, setScreenSize] = useState({ width: 560, height: 30 });
     useEffect(() => {
         const updateDimension = () => {
             setScreenSize(getCurrentDimension())
@@ -32,8 +32,8 @@ const Footer = () => {
                 <h3>International conference on Intelligent and Smart Innovations
                     <br /> for Industries 6.0</h3>
                 <Link href='/'>
-                    <Image src='/tmslogo.png' priority={true}
-                        width={screenSize.width / 6} height={30} alt='TMSL logo' />
+                    <Image src='/tmsl_logo.png' priority={true}
+                        width={screenSize.width / 10} height={30} alt='TMSL logo' />
                 </Link>
             </div>
             <div className={styles.foot_right}>

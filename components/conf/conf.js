@@ -4,7 +4,7 @@ import styles from './conf.module.scss'
 const Conf = () => {
     return (
         <div className={styles.conf}>
-            <div className={styles.text}>
+            {/* <div className={styles.text}>
                 <h1>Unveiling the Future of Technology <br />
                     at Our University's Conference! </h1>
                 <div className={styles.text_right}>
@@ -15,7 +15,7 @@ const Conf = () => {
                     </p>
                     <CustomBtn text='Conferences' />
                 </div>
-            </div>
+            </div> */}
             <div className={styles.img_wrapper}>
                 <img src='/conf_img.jpg' />
             </div>

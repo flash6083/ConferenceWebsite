@@ -2,29 +2,24 @@
     width: 100%;
     padding: 5vw 5vw;
     //height: 10vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 
     h1 {
-        font-family: 'Poppins', sans-serif;
-        font-size: 3vw;
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 2.5vw;
         font-weight: 600;
         color: black;
         text-align: center;
-        margin-bottom: 2vw;
+        margin-bottom: 1.5vw;
         text-transform: uppercase;
     }
 
-    h3 {
-        font-family: 'DM Sans', sans-serif;
-        font-size: 1.7vw;
-        font-weight: 500;
-        color: rgb(8, 52, 163);
-        margin-bottom: 1.5vw;
-        text-align: center;
-        letter-spacing: 0.03em;
-    }
 
     h4 {
         text-align: center;
+        color: rgb(120, 120, 120);
         font-weight: 500;
         margin-bottom: 1.5vw;
     }
@@ -34,6 +29,15 @@
         font-size: 2vw;
         font-weight: 800;
         margin-bottom: 2vw;
+        width: max-content;
+        text-align: center;
+
+        background: linear-gradient(89deg, #6b13f0, #6694f9, #0529df, #4c43ff44);
+        background-size: 600% 600%;
+        animation: bg-animate 7s ease infinite;
+        color: #fff;
+        padding: 0 0.35rem;
+        border-radius: 0.2rem;
     }
 
     .track_items {
@@ -41,5 +45,19 @@
         align-items: center;
         flex-direction: column;
         justify-content: center;
+    }
+}
+
+@keyframes bg-animate {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
     }
 }

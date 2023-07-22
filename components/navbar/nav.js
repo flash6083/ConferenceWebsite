@@ -13,7 +13,7 @@ function getCurrentDimension() {
 }
 
 const Navbar = () => {
-    const [screenSize, setScreenSize] = useState({ width: 960, height: 30 });
+    const [screenSize, setScreenSize] = useState({ width: 560, height: 30 });
     useEffect(() => {
         const updateDimension = () => {
             setScreenSize(getCurrentDimension())
@@ -30,8 +30,8 @@ const Navbar = () => {
         <div className={styles.navbar}>
             <div className={styles.logo}>
                 <Link href='/'>
-                    <Image src='/tmslogo.png' priority={true}
-                        width={screenSize.width / 6} height={30} alt='TMSL logo' />
+                    <Image src='/tmsl_logo.png' priority={true}
+                        width={screenSize.width / 10} height={30} alt='TMSL logo' />
                 </Link>
             </div>
             <div className={styles.links}>
@@ -42,12 +42,17 @@ const Navbar = () => {
                 </Link>
                 <Link href='#'>
                     <div className={styles.link}>
-                        Conferences
+                        Conference
                     </div>
                 </Link>
                 <Link href='#'>
                     <div className={styles.link}>
-                        About Us
+                        Committee
+                    </div>
+                </Link>
+                <Link href='#'>
+                    <div className={styles.link}>
+                        Important Dates
                     </div>
                 </Link>
                 <Link href='#'>

@@ -1,13 +1,15 @@
-import { HiArrowUpRight } from 'react-icons/hi2'
+"use client"
 
+import { HiArrowUpRight } from 'react-icons/hi2'
 import styles from './reg.module.scss'
 
+
 const Registration = () => {
+
     return (
         <div className={styles.reg}>
             <div className={styles.reg_left}>
                 <h1>Registration Details</h1>
-                <p>Call for papers: 11th October, 2023</p>
                 <h4>Registration Fees:</h4>
                 <ul>
                     <li>Student: Rs. 4000</li>

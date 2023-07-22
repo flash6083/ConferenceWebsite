@@ -7,11 +7,9 @@ const Hero = () => {
         <div className={styles.hero}>
             <div className={styles.hero_left}>
                 <h1>
-                    Empowering Excellence:<br /> Explore Crucial Tech &<br /> Present-Day Topics - Join<br />Our University's Premier<br /> Conference & Webinars!
+                    International Conference on <span>Intelligent and Smart</span> innovation<br />
+                    for industry 6.0 (CISII,24)
                 </h1>
-                <p>Stay Ahead in the Digital Era: Gain Insights from<br />
-                    Renowned Experts and Thought Leaders.</p>
-                <CustomBtn text='Register Now' />
             </div>
             <div className={styles.hero_right}>
                 <img src='/hero_img.jpg' />

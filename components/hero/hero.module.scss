@@ -11,19 +11,23 @@
         padding-right: 1vw;
 
         h1 {
-            font-family: 'Poppins', sans-serif;
-            font-size: 3vw;
-            font-weight: 700;
+            font-family: 'Poppins', sans-serif !important;
+            font-size: 3.5vw;
+            font-weight: 600;
             margin-bottom: 1vw;
-            line-height: 1.25em;
+            line-height: 1.4em;
+
+            span {
+                background: linear-gradient(89deg, #356cff, #ba86ff, #2dc4ff, #7560ff);
+                background-size: 600% 600%;
+                animation: bg-animate 7s ease infinite;
+                color: #fff;
+                padding: 0 0.35rem;
+                border-radius: 0.2rem;
+                margin-right: 0.5rem;
+            }
         }
 
-        p {
-            font-family: 'DM Sans', sans-serif;
-            font-size: 1.2vw;
-            color: #7F7F7F;
-            margin-bottom: 1.4vw;
-        }
     }
 
     .hero_right {
@@ -44,5 +48,19 @@
             object-fit: cover;
         }
 
+    }
+}
+
+@keyframes bg-animate {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
     }
 }
