@@ -13,7 +13,7 @@ function getCurrentDimension() {
 }
 
 const Navbar = () => {
-    const [screenSize, setScreenSize] = useState(getCurrentDimension());
+    const [screenSize, setScreenSize] = useState({ width: 960, height: 30 });
     useEffect(() => {
         const updateDimension = () => {
             setScreenSize(getCurrentDimension())
