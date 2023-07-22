@@ -1,0 +1,27 @@
+.track {
+    width: 70vw;
+    padding: 2vw 2vw;
+    background-color: rgb(20, 110, 235);
+    border-radius: 0.7vw;
+    margin-bottom: 1vw;
+
+    p {
+        color: white;
+        font-size: 2vw;
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 500;
+        border-right: 0.2vw rgb(255, 255, 255) solid;
+        padding-right: 2vw;
+        display: inline-block;
+    }
+
+    span {
+        color: rgb(255, 255, 255);
+        font-size: 1.5vw;
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 500;
+        padding-left: 2vw;
+        padding-right: 2vw;
+        word-wrap: break-word;
+    }
+}

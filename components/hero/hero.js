@@ -7,7 +7,7 @@ const Hero = () => {
         <div className={styles.hero}>
             <div className={styles.hero_left}>
                 <h1>
-                    Empowering Excellence:<br /> Explore Crucial Tech &<br /> Present-Day Topics - Join Our<br /> University's Premier<br /> Conference & Webinars!
+                    Empowering Excellence:<br /> Explore Crucial Tech &<br /> Present-Day Topics - Join<br />Our University's Premier<br /> Conference & Webinars!
                 </h1>
                 <p>Stay Ahead in the Digital Era: Gain Insights from<br />
                     Renowned Experts and Thought Leaders.</p>
