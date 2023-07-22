@@ -1,0 +1,28 @@
+.navbar {
+    min-width: 100vw;
+    height: 6vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2vw 5vw;
+    //position: fixed;
+    background-color: black;
+    z-index: 10;
+
+    .links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .link {
+            margin-right: 2vw;
+            font-size: 1.3vw;
+            transition: all 0.3s cubic-bezier(.19, 1, .22, 1);
+            color: white;
+
+            &:hover {
+                color: bisque;
+            }
+        }
+    }
+}

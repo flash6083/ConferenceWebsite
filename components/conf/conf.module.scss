@@ -1,0 +1,55 @@
+.conf {
+    width: 100vw;
+    padding: 5vw 10vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #01112D;
+    align-items: center;
+    justify-content: center;
+
+    .text {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 7vw;
+
+        h1 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 3vw;
+            font-weight: 600;
+            color: white;
+        }
+
+        .text_right {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+
+            p {
+                font-family: 'DM Sans', sans-serif;
+                font-size: 1.3vw;
+                color: white;
+                margin-bottom: 1.5vw;
+            }
+        }
+    }
+
+    .img_wrapper {
+        position: relative;
+        width: 100%;
+        height: 40vw;
+        overflow: hidden;
+
+        img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: block;
+            object-fit: cover;
+        }
+    }
+
+}
