@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 
 import styles from './footer.module.scss'
+import CustomBtn from '../button/btn';
 
 function getCurrentDimension() {
     return {
@@ -32,8 +33,7 @@ const Footer = () => {
                 <h3>International conference on Intelligent and Smart Innovations
                     <br /> for Industries 6.0</h3>
                 <Link href='/'>
-                    <Image src='/tmsl_logo.png' priority={true}
-                        width={screenSize.width / 10} height={30} alt='TMSL logo' />
+                    <CustomBtn text="Scroll to Top" />
                 </Link>
             </div>
             <div className={styles.foot_right}>

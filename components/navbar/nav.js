@@ -45,7 +45,7 @@ const Navbar = () => {
                         Conference
                     </div>
                 </Link>
-                <Link href='#'>
+                <Link href='/committee'>
                     <div className={styles.link}>
                         Committee
                     </div>
