@@ -12,7 +12,7 @@ const Hero = () => {
                 </h1>
             </div>
             <div className={styles.hero_right}>
-                <img src='/hero_img.jpg' />
+                <img src='/hero_img.jpeg' />
             </div>
         </div>
     )

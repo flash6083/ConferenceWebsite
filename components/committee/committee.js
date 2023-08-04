@@ -5,22 +5,28 @@ import styles from './committee.module.scss'
 
 const committee_details = {
     "Chief Patron": [
-        "Dr Gautam Roy Chowdhury",
-        "Prof. Manoshi Roy Chowdhury"
+        "Dr Gautam Roy Chowdhury, Techno Main Saltlake, Kolkata, India",
+        "Prof. Manoshi Roy Chowdhury, Techno Main Saltlake, Kolkata, India"
     ],
     "Patron": [
-        "Mr Meghdut Roy Chowdhury",
-        "Ms Pauline Laravoire",
-        "Mr Anit Adhikari",
-        "Dr Sujoy Biswas",
-        "Dr Subhasis Biswas"
+        "Mr Meghdut Roy Chowdhury, Techno Main Saltlake, Kolkata, India",
+        "Ms Pauline Laravoire, Techno Main Saltlake, Kolkata, India",
+        "Mr Anit Adhikari, Techno Main Saltlake, Kolkata, India",
+        "Dr Sujoy Biswas, Techno Main Saltlake, Kolkata, India",
+        "Dr Subhasis Biswas, Techno Main Saltlake, Kolkata, India"
+    ],
+    "Honorary General Chairs": [
+        "Dr. Kalyanmoy Deb",
+        "Professor, Michigan State University",
+        "Dr. Rajkumar Buyya",
+        "Professor, The University of Melbourn"
     ],
     "General Chairs": [
-        "Dr Siddhartha Bhattacharya",
-        "Dr Subhamita Mukherjee"
+        "Dr Siddhartha Bhattacharya, Techno Main Saltlake, Kolkata, India",
+        "Dr Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India"
     ],
     "International Advisory Chair": [
-        "Prof Soumitra Sasmal"
+        "Prof Soumitra Sasmal, Techno Main Saltlake, Kolkata, India"
     ],
     "International Advisory Committee": [
         " Prof. Sankar K. Pal, Indian Statistical Institute, Kolkata, India",
@@ -51,51 +57,51 @@ const committee_details = {
         " Prof. K. V. S. Hari, IISc Bangalore, India"
     ],
     "Organizing Chair": [
-        "Prof Shauvik Paul"
+        "Prof Shauvik Paul, Techno Main Saltlake, Kolkata, India"
     ],
     "Organizing Committee": [
-        "Dr Anirban Goswami",
-        "Prof Prodipta Bhowmick",
-        "Prof Soumyadip Jana",
-        "Prof Dibyendu Banerjee",
-        "Prof Hemant Agarwal",
-        "Prof Nabanita Banerjee",
-        "Prof Prodipta Das",
-        "Prof Suman Ghosh"
+        "Dr Anirban Goswami, Techno Main Saltlake, Kolkata, India",
+        "Prof Prodipta Bhowmick, Techno Main Saltlake, Kolkata, India",
+        "Prof Soumyadip Jana, Techno Main Saltlake, Kolkata, India",
+        "Prof Dibyendu Banerjee, Techno Main Saltlake, Kolkata, India",
+        "Prof Hemant Agarwal, Techno Main Saltlake, Kolkata, India",
+        "Prof Nabanita Banerjee, Techno Main Saltlake, Kolkata, India",
+        "Prof Prodipta Das, Techno Main Saltlake, Kolkata, India",
+        "Prof Suman Ghosh, Techno Main Saltlake, Kolkata, India"
     ],
     "Technical Chair": [
-        "Dr.Saikat Majumder"
+        "Dr.Saikat Majumder, Techno Main Saltlake, Kolkata, India"
     ],
     "Technical Committee": [
-        "Dr. Biswajit Ghosh",
-        "Dr.Sudshna Kundu Mondal",
-        "Dr.Tanmay Bhattacharyya",
-        "Dr. Alok Kumar Mohanty",
-        "Dr .Nilanjan Patra",
-        "Dr.Jayanti Sarker",
-        "Dr.Santanu Mondal",
-        "Dr Pranati Dutta"
+        "Dr. Biswajit Ghosh, Techno Main Saltlake, Kolkata, India",
+        "Dr.Sudshna Kundu Mondal, Techno Main Saltlake, Kolkata, India",
+        "Dr.Tanmay Bhattacharyya, Techno Main Saltlake, Kolkata, India",
+        "Dr. Alok Kumar Mohanty, Techno Main Saltlake, Kolkata, India",
+        "Dr .Nilanjan Patra, Techno Main Saltlake, Kolkata, India",
+        "Dr.Jayanti Sarker, Techno Main Saltlake, Kolkata, India",
+        "Dr.Santanu Mondal, Techno Main Saltlake, Kolkata, India",
+        "Dr Pranati Dutta, Techno Main Saltlake, Kolkata, India"
     ],
     "Program Chair": [
-        "Dr Dharmadas Mandal"
+        "Dr Dharmadas Mandal, Techno Main Saltlake, Kolkata, India"
     ],
     "Program Committee": [
-        "Prof Bijoly Saha",
-        "Prof Subhajit Bhowmik",
-        "Dr Uttam Kumar Sarkar",
-        "Prof Sanghamitra Manna",
-        "Prof Arizul Haque"
+        "Prof Bijoly Saha, Techno Main Saltlake, Kolkata, India",
+        "Prof Subhajit Bhowmik, Techno Main Saltlake, Kolkata, India",
+        "Dr Uttam Kumar Sarkar, Techno Main Saltlake, Kolkata, India",
+        "Prof Sanghamitra Manna, Techno Main Saltlake, Kolkata, India",
+        "Prof Arizul Haque, Techno Main Saltlake, Kolkata, India"
     ],
     "Publication Chair": [
-        "Prof Bidishna Bhattacharya"
+        "Prof Bidishna Bhattacharya, Techno Main Saltlake, Kolkata, India"
     ],
     "Publication Committee": [
-        "Prof Anindita Saha",
-        "Prof Aparajita Chowdhury",
-        "Prof Santu Guin",
-        "Prof Arunava Kabiraj Thakur",
-        "Prof Reshmita Mallick",
-        "Prof Surojit Roy"
+        "Prof Anindita Saha, Techno Main Saltlake, Kolkata, India",
+        "Prof Aparajita Chowdhury, Techno Main Saltlake, Kolkata, India",
+        "Prof Santu Guin, Techno Main Saltlake, Kolkata, India",
+        "Prof Arunava Kabiraj Thakur, Techno Main Saltlake, Kolkata, India",
+        "Prof Reshmita Mallick, Techno Main Saltlake, Kolkata, India",
+        "Prof Surojit Roy, Techno Main Saltlake, Kolkata, India"
     ]
 }
 const keys = Object.keys(committee_details);

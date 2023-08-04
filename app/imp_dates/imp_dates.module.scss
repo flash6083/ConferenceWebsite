@@ -1,0 +1,23 @@
+.dates {
+    width: 100%;
+    padding: 5vw 5vw;
+    height: max-content;
+    margin-bottom: 2vw;
+
+    h1 {
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 3vw;
+        font-weight: 600;
+        line-height: 1.6em;
+        margin-bottom: 1vw;
+        //text-align: center;
+    }
+
+    p {
+        font-size: 1.3vw;
+        font-weight: 500;
+        margin-bottom: 1vw;
+        //text-align: center;
+        color: rgb(37, 39, 41);
+    }
+}

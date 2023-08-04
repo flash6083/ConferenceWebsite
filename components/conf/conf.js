@@ -17,7 +17,8 @@ const Conf = () => {
                 </div>
             </div> */}
             <div className={styles.img_wrapper}>
-                <img src='/conf_img.jpg' />
+                <h1>Welcome to Industry 6.0</h1>
+                <img src='/Industry6.0.jpg' />
             </div>
         </div>
     )

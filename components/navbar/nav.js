@@ -50,9 +50,14 @@ const Navbar = () => {
                         Committee
                     </div>
                 </Link>
-                <Link href='#'>
+                <Link href='/imp_dates'>
                     <div className={styles.link}>
                         Important Dates
+                    </div>
+                </Link>
+                <Link href='/about'>
+                    <div className={styles.link}>
+                        About
                     </div>
                 </Link>
                 <Link href='#'>

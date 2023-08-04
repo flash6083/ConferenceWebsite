@@ -41,6 +41,23 @@
         height: 40vw;
         overflow: hidden;
 
+        h1 {
+            position: absolute;
+            bottom: 20%;
+            left: 10%;
+            font-family: 'Jost', sans-serif !important;
+            font-size: 3.5vw;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: white;
+            z-index: 5;
+            border-radius: 5vw;
+            padding: 1vw 2vw;
+            background: linear-gradient(89deg, #356cff, #f01ad0, #092daf, #7560ff, #000);
+            background-size: 600% 600%;
+            animation: bg-animate 16s ease infinite;
+        }
+
         img {
             position: absolute;
             top: 0;
@@ -52,4 +69,18 @@
         }
     }
 
+}
+
+@keyframes bg-animate {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
 }
