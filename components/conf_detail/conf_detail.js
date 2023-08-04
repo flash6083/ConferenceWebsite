@@ -15,6 +15,8 @@ const tracks_info = [
     { "id": "08", "name": "Green Sustainability" },
     { "id": "09", "name": "Energy Integration" },
     { "id": "10", "name": "Utility & Asset Management" },
+    { "id": "11", "name": "Brain-Computer Interaction" },
+    { "id": "12", "name": "Smart Agriculture and Irrigation" },
 ]
 
 const ConferenceDetail = () => {

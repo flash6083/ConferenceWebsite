@@ -5,24 +5,22 @@ import styles from './committee.module.scss'
 
 const committee_details = {
     "Chief Patron": [
-        "Dr Gautam Roy Chowdhury, Techno Main Saltlake, Kolkata, India",
-        "Prof. Manoshi Roy Chowdhury, Techno Main Saltlake, Kolkata, India"
+        "Dr Gautam Roy Chowdhury, Techno India Group",
+        "Prof. Manoshi Roy Chowdhury, Techno India Group"
     ],
     "Patron": [
-        "Mr Meghdut Roy Chowdhury, Techno Main Saltlake, Kolkata, India",
-        "Ms Pauline Laravoire, Techno Main Saltlake, Kolkata, India",
-        "Mr Anit Adhikari, Techno Main Saltlake, Kolkata, India",
-        "Dr Sujoy Biswas, Techno Main Saltlake, Kolkata, India",
-        "Dr Subhasis Biswas, Techno Main Saltlake, Kolkata, India"
+        "Mr Meghdut Roy Chowdhury, Techno India Group",
+        "Ms Pauline Laravoire, Techno India Group",
+        "Mr Anit Adhikari, Techno India Group",
+        "Dr Sujoy Biswas, Techno India Group",
+        "Dr Subhasis Biswas, Techno India Group"
     ],
     "Honorary General Chairs": [
-        "Dr. Kalyanmoy Deb",
-        "Professor, Michigan State University",
-        "Dr. Rajkumar Buyya",
-        "Professor, The University of Melbourn"
+        "Dr. Kalyanmoy Deb, Michigan State University",
+        "Dr. Rajkumar Buyya, The University of Melbourn",
     ],
     "General Chairs": [
-        "Dr Siddhartha Bhattacharya, Techno Main Saltlake, Kolkata, India",
+        "Dr Siddhartha Bhattacharya, Rajnagar Mahavidyalaya",
         "Dr Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India"
     ],
     "International Advisory Chair": [
@@ -40,7 +38,7 @@ const committee_details = {
         " Prof. Ponnuthurai Nagaratnam, Nanyang Technological University, Singapore",
         " Prof. Elizabeth C. Behrman, Wichita State University, USA",
         " Prof. Rajkumar Buyya, The University of Melbourne, Australia",
-        " Prof. Saman K. Halgamuge,  The University of Melbourne, Australia",
+        " Prof. Saman K. Halgamuge, The University of Melbourne, Australia",
         " Prof. Aboul Ella Hassanien, Cairo University, Egypt",
         " Prof. Mario Koeppen, Kyushu Institute of Technology, Japan",
         " Prof. Rudolf Kruse, Otto-von-Guericke University Magdeburg, Germany",
