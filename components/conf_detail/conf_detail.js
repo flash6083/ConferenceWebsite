@@ -21,8 +21,8 @@ const ConferenceDetail = () => {
 
     return (
         <div className={styles.conf_detail}>
-            <h1>Upcoming Conference Date - 23rd and 24th February,2024</h1>
-            <h4>Call for Papers: 11th October, 2023</h4>
+            <h1>Upcoming Conference Date - 1st and 2nd March,2024</h1>
+            {/* <h4>Call for Papers: 11th October, 2023</h4> */}
             <h1 className={styles.track_heading}>Track of CISII, 24</h1>
             <div className={styles.track_items}>
                 {tracks_info.map(track => <Track key={track.id} id={track.id} name={track.name} />)}

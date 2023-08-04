@@ -11,11 +11,17 @@ const Registration = () => {
             <div className={styles.reg_left}>
                 <h1>Registration Details</h1>
                 <h4>Registration Fees:</h4>
-                <ul>
-                    <li>Student: Rs. 4000</li>
-                    <li>Faculty: Rs. 6000</li>
-                    <li>Industry: Rs. 8000</li>
-                </ul>
+                <div className={styles.reg_table}>
+                    <div className={styles.tab_col}>
+                        <h3></h3>
+                        <ul>
+                            <li>Student: Rs. 4000</li>
+                            <li>Faculty: Rs. 6000</li>
+                            <li>Industry: Rs. 8000</li>
+                        </ul>
+                    </div>
+                </div>
+
                 <div className={styles.reg_btn}>
                     <span>Register Now</span>
                     <HiArrowUpRight size={15} />

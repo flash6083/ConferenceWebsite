@@ -25,16 +25,20 @@
             margin-bottom: 3vw;
         }
 
-        ul {
-            list-style-type: circle;
-            margin-bottom: 2vw;
-            color: white;
-
-            li {
-                font-size: 1.2vw;
+        .reg_table {
+            ul {
+                list-style-type: circle;
                 margin-bottom: 2vw;
+                color: white;
+
+                li {
+                    font-size: 1.2vw;
+                    margin-bottom: 2vw;
+                }
             }
         }
+
+
 
         .reg_btn {
             font-size: 0.9vw;
