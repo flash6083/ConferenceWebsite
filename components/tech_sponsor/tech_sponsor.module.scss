@@ -1,0 +1,26 @@
+.sponsor {
+    width: 100%;
+    padding: 5vw 5vw;
+
+    h1 {
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 3.3vw;
+        font-weight: 600;
+        margin-bottom: 1vw;
+        text-align: center;
+    }
+
+    .members {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h3 {
+            //flex: 50%;
+            font-size: 1.6vw;
+            font-weight: 600;
+            margin-left: 1vw;
+            color: rgb(117, 117, 117);
+        }
+    }
+}

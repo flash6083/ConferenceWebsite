@@ -1,7 +1,7 @@
 import Conf from "@/components/conf/conf";
 import ConferenceDetail from "@/components/conf_detail/conf_detail";
 import Hero from "@/components/hero/hero";
-import Registration from "@/components/registration/reg";
+import TechSponsor from "@/components/tech_sponsor/tech_sponsor";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <Hero />
       <Conf />
       <ConferenceDetail />
-      <Registration />
+      <TechSponsor />
     </div>
   )
 }

@@ -8,7 +8,7 @@
 
     .reg_left {
         font-family: 'DM Sans', sans-serif;
-        flex: 50%;
+        flex: 60%;
 
         h1 {
             font-family: 'Poppins', sans-serif !important;
@@ -18,24 +18,40 @@
             margin-bottom: 2vw;
         }
 
-        h4 {
-            font-size: 2vw;
-            font-weight: 600;
-            color: rgb(255, 216, 148);
-            margin-bottom: 3vw;
-        }
-
         .reg_table {
-            ul {
-                list-style-type: circle;
-                margin-bottom: 2vw;
-                color: white;
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
 
-                li {
-                    font-size: 1.2vw;
+            .tab_col {
+                margin-right: 1.2vw;
+                text-align: center;
+
+                &:first-child {
+                    text-align: left;
+                }
+
+                h3 {
+                    //font-family: 'Poppins', sans-serif !important;
+                    font-size: 1.5vw;
+                    font-weight: 600;
+                    color: rgb(255, 216, 148);
+                    margin-bottom: 1vw;
+                }
+
+                ul {
+                    //list-style-type: circle;
                     margin-bottom: 2vw;
+                    color: white;
+
+                    li {
+                        font-size: 1.2vw;
+                        margin-bottom: 2vw;
+                    }
                 }
             }
+
+
         }
 
 
@@ -67,9 +83,9 @@
     .reg_right {
         position: relative;
         width: 100%;
-        height: 40vw;
+        height: 35vw;
         overflow: hidden;
-        flex: 50%;
+        flex: 40%;
         border-radius: 2vw;
 
         img {

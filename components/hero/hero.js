@@ -1,8 +1,12 @@
-import CustomBtn from '../button/btn'
+"use client"
 
+import { useRouter } from 'next/navigation'
+
+import CustomBtn from '../button/btn'
 import styles from './hero.module.scss'
 
 const Hero = () => {
+    const router = useRouter()
     return (
         <div className={styles.hero}>
             <div className={styles.hero_left}>
@@ -10,6 +14,9 @@ const Hero = () => {
                     International Conference on <span>Intelligent and Smart</span> Innovation<br />
                     for Industry 6.0<br />(CISII-24)
                 </h1>
+                <div onClick={() => router.push('/registration')} >
+                    <CustomBtn text='Register' />
+                </div>
             </div>
             <div className={styles.hero_right}>
                 <img src='/hero_img.jpeg' />
