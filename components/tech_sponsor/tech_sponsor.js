@@ -27,7 +27,7 @@ const TechSponsor = () => {
         <div className={styles.sponsor}>
             <h1>Technical Sponsors</h1>
             <div className={styles.members}>
-                <Image src={'/AAIA_Logo.png'}
+                <Image src={'/AAIA_Logo.png'} alt='AAIA logo'
                     width={screenSize.width / 7} height={30}
                 />
 
