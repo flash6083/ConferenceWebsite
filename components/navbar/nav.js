@@ -40,14 +40,9 @@ const Navbar = () => {
                         Home
                     </div>
                 </Link>
-                <Link href='#'>
+                <Link href='/about'>
                     <div className={styles.link}>
-                        Conference
-                    </div>
-                </Link>
-                <Link href='/committee'>
-                    <div className={styles.link}>
-                        Committee
+                        About
                     </div>
                 </Link>
                 <Link href='/imp_dates'>
@@ -55,12 +50,22 @@ const Navbar = () => {
                         Important Dates
                     </div>
                 </Link>
-                <Link href='/about'>
+                <Link href='/imp_dates'>
                     <div className={styles.link}>
-                        About
+                        Call for papers
                     </div>
                 </Link>
-                <Link href='#'>
+                <Link href='/registration'>
+                    <div className={styles.link}>
+                        Registration
+                    </div>
+                </Link>
+                <Link href='/committee'>
+                    <div className={styles.link}>
+                        Committee
+                    </div>
+                </Link>
+                <Link href='/contact'>
                     <div className={styles.link}>
                         Contact
                     </div>
