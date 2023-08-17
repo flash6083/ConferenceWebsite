@@ -40,9 +40,9 @@ const Footer = () => {
                     <span>Quick Links</span>
                     <ul>
                         <li><Link href='/'>Home</Link></li>
-                        <li><Link href='#'>Conferences</Link></li>
-                        <li><Link href='#'>About Us</Link></li>
-                        <li><Link href='#'>Contact</Link></li>
+                        <li><Link href='/imp_dates'>Important Dates</Link></li>
+                        <li><Link href='/about'>About Us</Link></li>
+                        <li><Link href='/contact'>Contact</Link></li>
                     </ul>
                 </div>
                 <div className={styles.imp_links}>
