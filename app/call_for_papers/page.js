@@ -34,25 +34,25 @@ const CallForPapers = () => {
             </p>
             <h2>Submission Instructions</h2>
             <ul className={styles.format}>
-              // <li><span>Paper Template: </span>
-              //       <a
-              //           href="/splnproc1703.zip"
-              //           download="Word_Template"
-              //           target="_blank"
-              //           rel="noreferrer"
-              //       >
-              //           <img src='/word-logo.png' style={{ "display": "inline-block", "width": "4vw", "marginRight": "2vw" }} />
-              //       </a>
-              //       <a
-              //           href="/ProcSci_TeX.zip"
-              //           download="LaTeX_Template"
-              //           target="_blank"
-              //           rel="noreferrer"
-              //       >
-              //           <img src='/latex-logo.png' style={{ "display": "inline-block", "width": "5vw" }} />
-              //       </a>
-              //   </li>
-              //  <li>Normal Page Limit: 8 Pages</li>
+    {/* <li><span>Paper Template: </span>
+                    <a
+                        href="/splnproc1703.zip"
+                        download="Word_Template"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        <img src='/word-logo.png' style={{ "display": "inline-block", "width": "4vw", "marginRight": "2vw" }} />
+                    </a>
+                    <a
+                        href="/ProcSci_TeX.zip"
+                        download="LaTeX_Template"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        <img src='/latex-logo.png' style={{ "display": "inline-block", "width": "5vw" }} />
+                    </a>
+                </li>
+               <li>Normal Page Limit: 8 Pages</li> */}
                 <li>Format for submission: PDF</li>
                 <li>Link for submission: To be updated soon</li>
             </ul>
