@@ -25,21 +25,21 @@ const Registration = () => {
                     <div className={styles.tab_col}>
                         <h3>Early Bid</h3>
                         <ul>
-                            <li>3500 INR</li>
-                            <li>5500 INR</li>
-                            <li>100 USD</li>
+                            <li>7000 INR</li>
+                            <li>9000 INR</li>
+                            <li>150 USD</li>
                             <li>2000 INR</li>
-                            <li>50 USD</li>
+                            <li>100 USD</li>
                         </ul>
                     </div>
                     <div className={styles.tab_col}>
                         <h3>Regular Registration</h3>
                         <ul>
-                            <li>4500 INR</li>
-                            <li>6000 INR</li>
-                            <li>150 USD</li>
+                            <li>8000 INR</li>
+                            <li>10000 INR</li>
+                            <li>200 USD</li>
                             <li>2500 INR</li>
-                            <li>75 USD</li>
+                            <li>150 USD</li>
                         </ul>
                     </div>
                 </div>
