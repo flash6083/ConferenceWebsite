@@ -29,8 +29,8 @@ const Footer = () => {
     return (
         <div className={styles.footer}>
             <div className={styles.foot_left}>
-                <h3>International conference on Intelligent and Smart Innovations
-                    <br /> for Industries 6.0</h3>
+                <h3>International conference on Intelligent Systems 
+                    <br /> and Industrial Instrumentation</h3>
                 <Link href='/'>
                     <CustomBtn text="Scroll to Top" />
                 </Link>
