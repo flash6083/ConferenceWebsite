@@ -16,12 +16,12 @@ const Hero = () => {
                     <span> Industrial Instrumentation </span><br />
                     (CISII-2024) <br />
                 </h1>
-                <h2>
+                <h3>
                     <span>20 - 21 September 2024</span>
-                </h2>
-                <div onClick={() => router.push('/registration')} >
+                </h3>
+{*/  <div onClick={() => router.push('/registration')} >
                     <CustomBtn text='Register' />
-                </div>
+                </div> */}
             </div>
             <div className={styles.hero_right}>
                 <img src='/hero_img.jpeg' />
