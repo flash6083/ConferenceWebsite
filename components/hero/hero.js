@@ -19,9 +19,9 @@ const Hero = () => {
                 <h3>
                     <span>20 - 21 September 2024</span>
                 </h3>
-{*/  <div onClick={() => router.push('/registration')} >
+          <div onClick={() => router.push('/registration')} >
                     <CustomBtn text='Register' />
-                </div> */}
+                </div>
             </div>
             <div className={styles.hero_right}>
                 <img src='/hero_img.jpeg' />
