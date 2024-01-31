@@ -11,12 +11,14 @@ const Hero = () => {
         <div className={styles.hero}>
             <div className={styles.hero_left}>
                 <h1>
-                    International Conference on <span>Intelligent Systems</span>
+                    International Conference on <span>Intelligent Systems</span> <br />
                     and <br />
                     <span> Industrial Instrumentation </span><br />
                     (CISII-2024) <br />
-                    <span>20 and 21 September 2024</span>
                 </h1>
+                <h2>
+                    <span>20 - 21 September 2024</span>
+                </h2>
                 <div onClick={() => router.push('/registration')} >
                     <CustomBtn text='Register' />
                 </div>
