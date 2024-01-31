@@ -2,10 +2,10 @@ import styles from './imp_dates.module.scss'
 
 const date_info = [
     "Paper submission open: 01 February 2024",
-    "Paper Submission Deadline: 31 March 2024",
-    "Acceptance Notification: 30 April 2024",
-    "Early Bird Registration: 03 May 2024",
-    "Regular Registration Closes: 07 May 2024"
+    "Paper Submission Deadline: 15 May 2024",
+    "Acceptance Notification: 15 August 2024",
+    "Early Bird Registration: 31 August 2024",
+    "Regular Registration Closes: 15 September 2024"
 ]
 
 const Dates = () => {
