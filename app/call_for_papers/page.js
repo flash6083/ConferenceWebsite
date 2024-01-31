@@ -34,7 +34,7 @@ const CallForPapers = () => {
             </p>
             <h2>Submission Instructions</h2>
             <ul className={styles.format}>
-                <li><span>Paper Template: </span>
+              <!--  <li><span>Paper Template: </span>
                     <a
                         href="/splnproc1703.zip"
                         download="Word_Template"
@@ -51,8 +51,8 @@ const CallForPapers = () => {
                     >
                         <img src='/latex-logo.png' style={{ "display": "inline-block", "width": "5vw" }} />
                     </a>
-                </li>
-                <li>Normal Page Limit: 8 Pages</li>
+                </li> -->
+               <!-- <li>Normal Page Limit: 8 Pages</li> -->
                 <li>Format for submission: PDF</li>
                 <li>Link for submission: To be updated soon</li>
             </ul>
