@@ -23,7 +23,7 @@ const ConferenceDetail = () => {
 
     return (
         <div className={styles.conf_detail}>
-            <h1>Upcoming Conference Date - 11 and 12 May,2024</h1>
+            <h1>Upcoming Conference Date - 20 and 21 September,2024</h1>
             {/* <h4>Call for Papers: 11th October, 2023</h4> */}
             <h1 className={styles.track_heading}>Track of CISII, 24</h1>
             <div className={styles.track_items}>
