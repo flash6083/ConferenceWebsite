@@ -17,7 +17,7 @@ const Conf = () => {
                 </div>
             </div> */}
             <div className={styles.img_wrapper}>
-                <h1>Welcome to Industry 6.0</h1>
+                <h1>Welcome to CISII</h1>
                 <img src='/Industry6.0.jpg' />
             </div>
         </div>
