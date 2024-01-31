@@ -15,10 +15,8 @@ const Hero = () => {
                     and <br />
                     <span> Industrial Instrumentation </span><br />
                     (CISII-2024) <br />
+                    20-21 September 2024
                 </h1>
-                <h3>
-                    <span>20 - 21 September 2024</span>
-                </h3>
           <div onClick={() => router.push('/registration')} >
                     <CustomBtn text='Register' />
                 </div>
