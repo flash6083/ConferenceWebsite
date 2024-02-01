@@ -30,7 +30,7 @@ const TechSponsor = () => {
       <Image src={'csi-logo.png'} alt='CSI'
                     width={screenSize.width / 7} height={30} 
                 />
-     <h3> "    "  </h3>
+     <h3>      </h3>
       <Image src={'IETE.jpg'} alt='IETE'
                     width={screenSize.width / 7} height={30} 
                 />
