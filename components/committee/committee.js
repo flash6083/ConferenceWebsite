@@ -17,24 +17,74 @@ const committee_details = {
         "Dr Dharmadas Mandal, Techno Main Saltlake, Kolkata, India"
     ],
     "Honorary General Chairs": [
-        "TBA"
+        "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
+        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India"
     ],
     "General Chairs": [
-        "Dr Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India"
+        "Dr. Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India",
+        "Dr. Saikat Majumder, Techno Main Saltlake, Kolkata, India"
     ],
     "Organizing Chairs": [
-        "Prof Soumitra Sasmal, Techno Main Saltlake, Kolkata, India",
-        "Prof Shauvik Paul, Techno Main Saltlake, Kolkata, India"
+        "Prof Shauvik Paul, Techno Main Saltlake, Kolkata, India",
+        "Prof Soumitra Sasmal, Techno Main Saltlake, Kolkata, India"
     ],
-    "Program Chair": [
-        "TBA"
+    "Publication Chair": [
+        "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India"
     ],
     "International Advisory Committee": [
-       "TBA"
+        "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University, Arad, Romania",
+        "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
+        "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
+        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India",
+        "Dr. Pushpendu Kar, The University of Nottingham, China",
+        "Prof. (Dr.) Rabie A. Ramadan, Nizwa University, Oman",
+        "Prof. (Dr.) Paramartha Dutta, Visva Bharati University, India",
+        "Dr. Debaditya Barman, Visva Bharati University, India",
+        "Prof. (Dr.) Anirban Mukherjee, RCC Institute of Information Technology, India",
+        "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
+        "Dr. Baisakhi Das, Institute of Engineering and Management, India"
     ],
 
+    "Technical Program Chair": [
+        "Prof. (Dr.) Paramartha Dutta, Visva Bharati University, India",
+        "Prof. (Dr.) Rabie A. Ramadan, Nizwa University, Oman",
+        "Prof. Bidishna Bhattacharya, Techno Main Saltlake, Kolkata, India"
+    ],
+    "Technical Program Committee": [
+        "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
+        "Dr. Pushpendu Kar, The University of Nottingham, China",
+        "Dr. Debaditya Barman, Visva Bharati University, India",
+        "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
+        "Dr. Hiranmoy Roy, RCC Institute of Information Technology, India",
+        "Dr. Brojo Kishore Mishra, NIST Institute of Science and Technology, India",
+        "Dr. Sudip Ghosh, Indian Institute of Engineering Science and Technology, Shibpur, India",
+        "Dr. Indrajit Banerjee, Indian Institute of Engineering Science and Technology, Shibpur, India",
+        "Dr. Tuhina Samanta, Indian Institute of Engineering Science and Technology, Shibpur, India",
+        "Dr. Sanjoy Pratihar, Indian Institute of Information Technology, Kalyani, India",
+        "Dr. Imon Mukherjee, Indian Institute of Information Technology, Kalyani, India",
+        "Dr. Anjan Bandyopadhyay, KIIT University, Bhubaneswar, India",
+        "Dr. Baisakhi Das, Institute of Engineering and Management, India",
+        "Dr. Anirban Goswami, Techno Main Saltlake, Kolkata, India",
+        "Dr. Biswajit Ghosh, Techno Main Saltlake, Kolkata, India",
+        "Dr. Tanmay Bhattacharyya, Techno Main Saltlake, Kolkata, India",
+        "Dr. Alok Kumar Mohanty, Techno Main Saltlake, Kolkata, India",
+        "Dr. Nilanjan Patra, Techno Main Saltlake, Kolkata, India",
+        "Dr. Jayanti Sarker, Techno Main Saltlake, Kolkata, India",
+        "Dr. Santanu Mondal, Techno Main Saltlake, Kolkata, India",
+        "Dr. Pranati Dutta, Techno Main Saltlake, Kolkata, India",
+        "Dr. Uttam Kumar Sarkar, Techno Main Saltlake, Kolkata, India"     
+    ],
     "Organizing Committee": [
-        "Dr Anirban Goswami, Techno Main Saltlake, Kolkata, India",
+        "Prof Anindita Saha, Techno Main Saltlake, Kolkata, India",
+        "Prof Aparajita Chowdhury, Techno Main Saltlake, Kolkata, India",
+        "Prof Bijoly Saha, Techno Main Saltlake, Kolkata, India",
+        "Prof Subhajit Bhowmik, Techno Main Saltlake, Kolkata, India",
+        "Prof Santu Guin, Techno Main Saltlake, Kolkata, India",
+        "Prof Arunava Kabiraj Thakur, Techno Main Saltlake, Kolkata, India",
+        "Prof Reshmita Mallick, Techno Main Saltlake, Kolkata, India",
+        "Prof Surojit Roy, Techno Main Saltlake, Kolkata, India",
+        "Prof Sanghamitra Manna, Techno Main Saltlake, Kolkata, India",
+        "Prof Arizul Haque, Techno Main Saltlake, Kolkata, India",
         "Prof Prodipta Bhowmick, Techno Main Saltlake, Kolkata, India",
         "Prof Soumyadip Jana, Techno Main Saltlake, Kolkata, India",
         "Prof Dibyendu Banerjee, Techno Main Saltlake, Kolkata, India",
@@ -42,39 +92,8 @@ const committee_details = {
         "Prof Nabanita Banerjee, Techno Main Saltlake, Kolkata, India",
         "Prof Prodipta Das, Techno Main Saltlake, Kolkata, India",
         "Prof Suman Ghosh, Techno Main Saltlake, Kolkata, India"
-    ],
-    "Technical Chair": [
-        "Dr.Saikat Majumder, Techno Main Saltlake, Kolkata, India",
-        "Prof Bidishna Bhattacharya, Techno Main Saltlake, Kolkata, India"
-    ],
-    "Technical Committee": [
-        "Dr. Biswajit Ghosh, Techno Main Saltlake, Kolkata, India",
-        "Dr.Sudshna Kundu Mondal, Techno Main Saltlake, Kolkata, India",
-        "Dr.Tanmay Bhattacharyya, Techno Main Saltlake, Kolkata, India",
-        "Dr. Alok Kumar Mohanty, Techno Main Saltlake, Kolkata, India",
-        "Dr .Nilanjan Patra, Techno Main Saltlake, Kolkata, India",
-        "Dr.Jayanti Sarker, Techno Main Saltlake, Kolkata, India",
-        "Dr.Santanu Mondal, Techno Main Saltlake, Kolkata, India",
-        "Dr Pranati Dutta, Techno Main Saltlake, Kolkata, India"
-    ],
-    "Program Committee": [
-        "Prof Bijoly Saha, Techno Main Saltlake, Kolkata, India",
-        "Prof Subhajit Bhowmik, Techno Main Saltlake, Kolkata, India",
-        "Dr Uttam Kumar Sarkar, Techno Main Saltlake, Kolkata, India",
-        "Prof Sanghamitra Manna, Techno Main Saltlake, Kolkata, India",
-        "Prof Arizul Haque, Techno Main Saltlake, Kolkata, India"
-    ],
-    "Publication Committee": [
-        "Prof Anindita Saha, Techno Main Saltlake, Kolkata, India",
-        "Prof Aparajita Chowdhury, Techno Main Saltlake, Kolkata, India",
-        "Prof Santu Guin, Techno Main Saltlake, Kolkata, India",
-        "Prof Arunava Kabiraj Thakur, Techno Main Saltlake, Kolkata, India",
-        "Prof Reshmita Mallick, Techno Main Saltlake, Kolkata, India",
-        "Prof Surojit Roy, Techno Main Saltlake, Kolkata, India"
-    ],
-    "Technical Program Committee": [
-        "TBA"
     ]
+
 }
 const keys = Object.keys(committee_details);
 
