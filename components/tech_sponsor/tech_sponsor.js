@@ -27,10 +27,13 @@ const TechSponsor = () => {
         <div className={styles.sponsor}>
             <h1>Technical Sponsors</h1>
             <div className={styles.members}>
-    {/*  <Image src={''} alt=''
+      <Image src={'csi-logo.png'} alt='CSI'
                     width={screenSize.width / 7} height={30} 
                 />
-            */}
+      <Image src={'IETE.jpg'} alt='IETE'
+                    width={screenSize.width / 7} height={30} 
+                />
+            
                 {/* <h3>  </h3> */}
             </div>
         </div>
