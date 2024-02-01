@@ -86,7 +86,7 @@ const committee_details = {
         "Dr. Rajib Ghosh, Institute of Engineering and Management, India",
         "Prof. Nirmal Das, Institute of Engineering and Management, India",
         "Prof. Kaishiki Das, Institute of Engineering and Management, India",
-        "Dr. Alok Mukherjee, Government College of Engineering & amp; Ceramic Technology, India",
+        "Dr. Alok Mukherjee, Government College of Engineering & Ceramic Technology, India",
         "Dr. Monalisha Banerjee, Techno Main Salt Lake, India",
         "Dr. Dola RoyChowdhury, Techno Main Salt Lake, India",
         "Dr. Shibaprosad Sen, Techno Main Salt Lake, India",
