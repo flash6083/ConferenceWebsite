@@ -5,7 +5,8 @@ const date_info = [
     "Paper Submission Deadline: 15 May 2024",
     "Acceptance Notification: 15 August 2024",
     "Early Bird Registration: 31 August 2024",
-    "Regular Registration Closes: 15 September 2024"
+    "Camera Ready Submission: 10 September 2024",
+    "Regular Registration Closes: 10 September 2024"
 ]
 
 const Dates = () => {
