@@ -58,6 +58,8 @@ const committee_details = {
     "Technical Program Committee": [
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Dr. Pushpendu Kar, The University of Nottingham, China",
+        "Dr. Soumya Sankar Basu, Sheffield Hallam University, UK",
+        "Dr. Amlan Chatterjee, California State University, USA",
         "Dr. Debaditya Barman, Visva Bharati University, India",
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
         "Dr. Hiranmoy Roy, RCC Institute of Information Technology, India",
