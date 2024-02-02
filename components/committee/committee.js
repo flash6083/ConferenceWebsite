@@ -5,7 +5,7 @@ import styles from './committee.module.scss';
 
 const committee_details = {
     "Chief Patron": [
-        "Dr. Gautam Roy Chowdhury, Techno India Group, India",
+        "Prof. (Dr.) Gautam Roy Chowdhury, Techno India Group, India",
         "Prof. Manoshi Roy Chowdhury, Techno India Group, India"
     ],
     "Patron": [
@@ -14,35 +14,40 @@ const committee_details = {
         "Mr. Anit Adhikari, Techno India Group, India",
         "Dr. Sujoy Biswas, Techno India Group, India",
         "Dr. Subhasis Biswas, Techno India Group, India",
-        "Dr. Dharmadas Mandal, Techno Main Saltlake, Kolkata, India"
+        "Prof. (Dr.) Dipankar Bhattacharyay, Techno Main Saltlake, India"
     ],
     "Honorary General Chairs": [
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
-        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India"
+        "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania"
     ],
     "General Chairs": [
         "Dr. Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India",
-        "Dr. Saikat Majumder, Techno Main Saltlake, Kolkata, India"
+        "Dr. Saikat Majumder, Techno Main Saltlake, Kolkata, India",
+        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India"
     ],
     "Organizing Chairs": [
         "Prof. Shauvik Paul, Techno Main Saltlake, Kolkata, India",
         "Prof. Soumitra Sasmal, Techno Main Saltlake, Kolkata, India"
     ],
     "Publication Chair": [
+        "Prof. (Dr.) Dharmadas Mandal, Techno Main Saltlake, Kolkata, India",
         "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India"
     ],
     "International Advisory Committee": [
-        "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University, Arad, Romania",
+        "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania",
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
-        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India",
+        "Dr. Soumya Sankar Basu, Sheffield Hallam University, UK",
+        "Dr. Amlan Chatterjee, California State University, USA",
         "Dr. Pushpendu Kar, The University of Nottingham, China",
         "Prof. (Dr.) Rabie A. Ramadan, Nizwa University, Oman",
         "Prof. (Dr.) Paramartha Dutta, Visva Bharati University, India",
         "Dr. Debaditya Barman, Visva Bharati University, India",
+        "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India",
         "Prof. (Dr.) Anirban Mukherjee, RCC Institute of Information Technology, India",
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
-        "Dr. Baisakhi Das, Institute of Engineering and Management, India"
+        "Dr. Baisakhi Das, Institute of Engineering and Management, India",
+        "Prof. (Dr.) Anirban Das, University of Engineering and Management, Kolkata, India"
     ],
 
     "Technical Program Chair": [
@@ -64,6 +69,7 @@ const committee_details = {
         "Dr. Sanjoy Pratihar, Indian Institute of Information Technology, Kalyani, India",
         "Dr. Imon Mukherjee, Indian Institute of Information Technology, Kalyani, India",
         "Dr. Anjan Bandyopadhyay, KIIT University, Bhubaneswar, India",
+        "Prof. (Dr.) Anirban Das, University of Engineering and Management, Kolkata, India",
         "Dr. Abhishek Basu, RCC Institute of Information Technology, India",
         "Dr. Abhijit Das, RCC Institute of Information Technology, India",
         "Dr. Soumen Mukherjee, RCC Institute of Information Technology, India",
@@ -71,6 +77,7 @@ const committee_details = {
         "Dr. Soumyadip Dhar, RCC Institute of Information Technology, India",
         "Dr. Sutirtha Kumar Guha, Meghnad Saha Institute of Technology, India",
         "Prof. Pampa Debnath, RCC Institute of Information Technology, India",
+        "Dr. Shibakali Gupta, University Institute of Technology,  BU, India",
         "Dr. Shiladitya Pujari, University Institute of Technology,  BU, India",
         "Dr. Baisakhi Das, Institute of Engineering and Management, India",
         "Dr. Srijan Bhattacharya, RCC Institute of Information Technology, Kolkata, India",
