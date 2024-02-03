@@ -13,8 +13,7 @@ const committee_details = {
         "Ms. Pauline Laravoire, Techno India Group, India",
         "Mr. Anit Adhikari, Techno India Group, India",
         "Dr. Sujoy Biswas, Techno India Group, India",
-        "Dr. Subhasis Biswas, Techno India Group, India",
-        "Prof. (Dr.) Dipankar Bhattacharyay, Techno Main Saltlake, India"
+        "Dr. Subhasis Biswas, Techno India Group, India"
     ],
     "Honorary General Chairs": [
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
@@ -35,19 +34,24 @@ const committee_details = {
     ],
     "International Advisory Committee": [
         "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania",
+        "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
+        "Prof. (Dr.) R. Jhon Martin, Jazan University, Kingdom of Saudi Arabia",
         "Dr. Soumya Sankar Basu, Sheffield Hallam University, UK",
         "Dr. Amlan Chatterjee, California State University, USA",
         "Dr. Pushpendu Kar, The University of Nottingham, China",
         "Prof. (Dr.) Rabie A. Ramadan, Nizwa University, Oman",
+        "Dr. Akib Mohi Ud Din Khanday, United Arab Emirates University, UAE",
         "Prof. (Dr.) Paramartha Dutta, Visva Bharati University, India",
         "Dr. Debaditya Barman, Visva Bharati University, India",
         "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, WB, India",
         "Prof. (Dr.) Anirban Mukherjee, RCC Institute of Information Technology, India",
+        "Prof. (Dr.) Jyoti Sekhar Banerjee, Bengal Institute of Technology, Kolkata, India",
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
         "Dr. Baisakhi Das, Institute of Engineering and Management, India",
-        "Prof. (Dr.) Anirban Das, University of Engineering and Management, Kolkata, India"
+        "Prof. (Dr.) Anirban Das, University of Engineering and Management, Kolkata, India",
+        "Dr. Bharat Bhushan, Sharda University, Greater Noida, India"
     ],
 
     "Technical Program Chair": [
@@ -79,6 +83,16 @@ const committee_details = {
         "Dr. Soumyadip Dhar, RCC Institute of Information Technology, India",
         "Dr. Sutirtha Kumar Guha, Meghnad Saha Institute of Technology, India",
         "Prof. Pampa Debnath, RCC Institute of Information Technology, India",
+        "Dr. Bharat Bhushan, Sharda University, Greater Noida, India",
+        "Dr. Anuj Kumar, Sharda University, India",
+        "Dr. Mohd Anas Wajid, Galgotias University, India",
+        "Dr. Mohd Arif, Galgotias University, India",
+        "Prof. Rabi Narayan Behera, Institute of Engineering & Management, India",
+        "Prof. Uddalak Chatterjee, Sikhsha 'O' Anusandhan University, India",
+        "Prof. Anirban Bhar, Narula Institute of Technology, Kolkata, India",
+        "Prof. (Dr.) R. Jhon Martin, Jazan University, Kingdom of Saudi Arabia",
+        "Prof. (Dr.) Jyoti Sekhar Banerjee, Bengal Institute of Technology, Kolkata, India",
+        "Dr. Akib Mohi Ud Din Khanday, United Arab Emirates University, UAE",
         "Dr. Shibakali Gupta, University Institute of Technology,  BU, India",
         "Dr. Shiladitya Pujari, University Institute of Technology,  BU, India",
         "Dr. Baisakhi Das, Institute of Engineering and Management, India",
