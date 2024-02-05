@@ -17,6 +17,7 @@ const committee_details = {
     ],
     "Honorary General Chairs": [
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
+        "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
         "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania"
     ],
     "General Chairs": [
@@ -37,7 +38,10 @@ const committee_details = {
         "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
+        "Dr. Ahmed A Elngar, Beni-Suef University, Egypt",
+        "Dr. Utku Kose, Suleyman Demirel University, Turkey & University of North Dakota, US",
         "Prof. (Dr.) R. Jhon Martin, Jazan University, Kingdom of Saudi Arabia",
+        "Dr. Haipeng Liu, Coventry University, UK",
         "Dr. Soumya Sankar Basu, Sheffield Hallam University, UK",
         "Dr. Amlan Chatterjee, California State University, USA",
         "Dr. Pushpendu Kar, The University of Nottingham, China",
@@ -68,7 +72,10 @@ const committee_details = {
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
         "Dr. Hiranmoy Roy, RCC Institute of Information Technology, India",
         "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India",
+        "Dr. Aniruddha Nag, IETE, Kolkata, India",
         "Dr. Brojo Kishore Mishra, NIST Institute of Science and Technology, India",
+        "Dr. Ahmed A Elngar, Beni-Suef University, Egypt",
+        "Dr. Utku Kose, Suleyman Demirel University, Turkey & University of North Dakota, US",
         "Dr. Sudip Ghosh, Indian Institute of Engineering Science and Technology, Shibpur, India",
         "Dr. Indrajit Banerjee, Indian Institute of Engineering Science and Technology, Shibpur, India",
         "Dr. Tuhina Samanta, Indian Institute of Engineering Science and Technology, Shibpur, India",
@@ -79,6 +86,7 @@ const committee_details = {
         "Dr. Abhishek Basu, RCC Institute of Information Technology, India",
         "Dr. Abhijit Das, RCC Institute of Information Technology, India",
         "Dr. Soumen Mukherjee, RCC Institute of Information Technology, India",
+        "Dr. Haipeng Liu, Coventry University, UK",
         "Dr. Soham Sarkar, RCC Institute of Information Technology, India",
         "Dr. Soumyadip Dhar, RCC Institute of Information Technology, India",
         "Dr. Sutirtha Kumar Guha, Meghnad Saha Institute of Technology, India",
