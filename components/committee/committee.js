@@ -30,6 +30,7 @@ const committee_details = {
         "Prof. Soumitra Sasmal, Techno Main Saltlake, Kolkata, India"
     ],
     "Publication Chair": [
+        "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Prof. (Dr.) Dharmadas Mandal, Techno Main Saltlake, Kolkata, India",
         "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India"
     ],
