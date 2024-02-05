@@ -50,7 +50,7 @@ const Navbar = () => {
                         Important Dates
                     </div>
                 </Link>
-                <Link href='/'>
+                <Link href='/keynote'>
                     <div className={styles.link}>
                         Keynote
                     </div>
