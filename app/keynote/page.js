@@ -5,6 +5,7 @@ const date_info = [
     "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
     "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, West Bengal, India",
     "Dr. Ahmed A. Elngar, Beni-Suef University, Egypt",
+    "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam"
 ]
 
 const Dates = () => {
