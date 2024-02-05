@@ -1,18 +1,16 @@
 import styles from './imp_dates.module.scss'
 
 const date_info = [
-    "Paper submission open: 01 February 2024",
-    "Paper Submission Deadline: 15 May 2024",
-    "Acceptance Notification: 15 August 2024",
-    "Early Bird Registration: 31 August 2024",
-    "Camera Ready Submission: 10 September 2024",
-    "Regular Registration Closes: 10 September 2024"
+    "Prof. (Dr.) Rajkumar Buyya, THe University of Melbourne, Australia",
+    "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
+    "Prof. (Dr.) Debashis De, Maulana Abul Kalam Azad University of Technology, West Bengal, India",
+    "Dr. Ahmed A. Elngar, Beni-Suef University, Egypt",
 ]
 
 const Dates = () => {
     return (
         <div className={styles.dates}>
-            <h1>Mark Your Calendar: Important Dates</h1>
+            <h1>Distinguished Keynote Speakers</h1>
             {date_info.map((date, index) => { return <p key={index}>{date}</p> })}
         </div>
     )
