@@ -37,6 +37,7 @@ const committee_details = {
     "International Advisory Committee": [
         "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania",
         "Prof. (Dr.) Celia Shahnaz, Bangladesh University of Engineering and Technology, Bangladesh",
+        "Prof. (Dr.) Anton Nijholt, University of Twente, Netherlands",
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
         "Prof. (Dr.) Rajkumar Buyya, The University of Melbourne, Australia",
         "Dr. Ahmed A Elngar, Beni-Suef University, Egypt",
@@ -56,7 +57,11 @@ const committee_details = {
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
         "Dr. Baisakhi Das, Institute of Engineering and Management, India",
         "Prof. (Dr.) Anirban Das, University of Engineering and Management, Kolkata, India",
-        "Dr. Bharat Bhushan, Sharda University, Greater Noida, India"
+        "Dr. Bharat Bhushan, Sharda University, Greater Noida, India",
+        "Dr. Nitai Paitya, Sikkim Manipal Institute of Technology, India",
+        "Dr. Sayan Kahali, TCS Research, India",
+        "Dr. Swarnil Roy, Meghnad Saha Institute of Technology, Kolkata, India",
+        "Dr. Kalyani Biswas, MCKV Institute of Engineering, Liluah, India"
     ],
 
     "Technical Program Chair": [
@@ -72,6 +77,13 @@ const committee_details = {
         "Dr. Debaditya Barman, Visva Bharati University, India",
         "Dr. Arpan Deyasi, RCC Institute of Information Technology, India",
         "Dr. Hiranmoy Roy, RCC Institute of Information Technology, India",
+        "Dr. Nitai Paitya, Sikkim Manipal Institute of Technology, India",
+        "Dr. Sayan Kahali, TCS Research, India",
+        "Dr. Swarnil Roy, Meghnad Saha Institute of Technology, Kolkata, India",
+        "Dr. Kalyani Biswas, MCKV Institute of Engineering, Liluah, India",
+        "Mr. Subhasish Banerjee, MCKV Institute of Engineering, Liluah, India",
+        "Dr. Joydeep Basu, Jadavpur University, Kolkata, India",
+        "Mr. Sumilak Chaudhury, Cadence Design Systems, India",
         "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India",
         "Dr. Aniruddha Nag, IETE, Kolkata, India",
         "Dr. Brojo Kishore Mishra, NIST Institute of Science and Technology, India",
