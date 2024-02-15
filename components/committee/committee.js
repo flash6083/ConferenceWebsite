@@ -61,7 +61,7 @@ const committee_details = {
         "Dr. Nitai Paitya, Sikkim Manipal Institute of Technology, India",
         "Dr. Sayan Kahali, TCS Research, India",
         "Dr. Swarnil Roy, Meghnad Saha Institute of Technology, Kolkata, India",
-        "Dr. Kalyani Biswas, MCKV Institute of Engineering, Liluah, India"
+        "Dr. Kalyan Biswas, MCKV Institute of Engineering, Liluah, India"
     ],
 
     "Technical Program Chair": [
@@ -80,7 +80,7 @@ const committee_details = {
         "Dr. Nitai Paitya, Sikkim Manipal Institute of Technology, India",
         "Dr. Sayan Kahali, TCS Research, India",
         "Dr. Swarnil Roy, Meghnad Saha Institute of Technology, Kolkata, India",
-        "Dr. Kalyani Biswas, MCKV Institute of Engineering, Liluah, India",
+        "Dr. Kalyan Biswas, MCKV Institute of Engineering, Liluah, India",
         "Mr. Subhasish Banerjee, MCKV Institute of Engineering, Liluah, India",
         "Dr. Joydeep Basu, Jadavpur University, Kolkata, India",
         "Mr. Sumilak Chaudhury, Cadence Design Systems, India",
