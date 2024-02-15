@@ -31,6 +31,10 @@ const TechSponsor = () => {
                     width={screenSize.width / 7} height={30} 
                 />
      <h3>      </h3> 
+     <Image src={'eds.png'} alt='IEEEEDS'
+                    width={screenSize.width / 7} height={30} 
+                />
+     <h3>      </h3> 
      <Image src={'wielogo.jpg'} alt='IEEEWIE'
                     width={screenSize.width / 7} height={30} 
                 />
