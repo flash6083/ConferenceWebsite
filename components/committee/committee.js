@@ -30,9 +30,10 @@ const committee_details = {
         "Prof. Soumitra Sasmal, Techno Main Saltlake, Kolkata, India"
     ],
     "Publication Chair": [
+        "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India",
         "Prof. (Dr.) Anand Nayyar, Duy Tan University, Vietnam",
-        "Prof. (Dr.) Dharmadas Mandal, Techno Main Saltlake, Kolkata, India",
-        "Prof. (Dr.) Indrajit Pan, RCC Institute of Information Technology, India"
+        "Dr. Subhamita Mukherjee, Techno Main Saltlake, Kolkata, India",
+        "Prof. (Dr.) Dharmadas Mandal, Techno Main Saltlake, Kolkata, India"
     ],
     "International Advisory Committee": [
         "Prof. (Dr.) Valentina E. Balas, Aurel Vlaicu University of Arad, Romania",
